@@ -1,0 +1,25 @@
+# --- Identity ---
+id: "c6eefb8d-23f1-4525-83a3-b487890431cd"
+name: "track-progress"
+display_name: "Track Progress"
+description: "Synthesises velocity, burndown, and milestone data into a status assessment"
+version: "1.0.0"
+engine: ">=0.1.0"
+author:
+  name: "skrptiq"
+  url: "https://hub.skrptiq.ai"
+licence: "MIT"
+repository: "https://github.com/skrpts/hub-shared-track-progress"
+category: "shared"
+tags:
+  - "shared"
+  - "prompt"
+contents:
+  skills: 0
+  prompts: 1
+  workflows: 0
+  services: 0
+  sources: 0
+  documents: 0
+  assets: 0
+  total: 1
