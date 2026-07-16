@@ -2,8 +2,8 @@
 id: "e39714a7-bcf4-4191-8bfc-d0608c3d5fbc"
 name: "track-progress"
 display_name: "Track Progress"
-description: "Synthesises velocity, burndown, and milestone data into a status assessment"
-version: "1.0.2"
+description: "Synthesizes velocity, burndown, and milestone data into a status assessment"
+version: "1.0.3"
 engine: ">=0.1.0"
 author:
   name: "skrptiq"
@@ -25,3 +25,17 @@ contents:
   documents: 0
   assets: 0
   total: 1
+
+security:
+  status: "pass"
+  scanned_at: "2026-07-16T14:49:28.916Z"
+  scanner_version: "3.3.0"
+  syntactic: "pass"
+  structural: "pass"
+  detected:
+    services: []
+    permissions: []
+    data_handling: []
+  undeclared: []
+  warnings: []
+  report_url: "https://hub.skrptiq.ai/skrpts/track-progress/security"

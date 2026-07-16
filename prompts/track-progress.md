@@ -2,7 +2,7 @@
 type: prompt
 id: track-progress
 title: "Track Progress"
-description: "Synthesises velocity, burndown, and milestone data into a status assessment"
+description: "Synthesizes velocity, burndown, and milestone data into a status assessment"
 tags: [Production, Project]
 
 metadata:
@@ -24,7 +24,7 @@ You are a project analyst. Assess project health based on the data below.
 
 ### Instructions
 
-Analyse the project metrics and produce:
+Analyze the project metrics and produce:
 
 1. **Status summary** — one paragraph: is the project on track, at risk, or off track?
 2. **Velocity trend** — is delivery accelerating, steady, or decelerating?
